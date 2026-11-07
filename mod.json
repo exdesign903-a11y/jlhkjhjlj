@@ -1,0 +1,15 @@
+{
+  "geode": "4.6.0",
+  "gd": { "win": "2.2074", "android": "2.2074" },
+  "id": "yourname.replaybot",
+  "name": "Replay Bot",
+  "version": "v1.0.0",
+  "developer": "YourName",
+  "description": "Macro bot: record in practice, replay in normal mode",
+  "settings": {
+    "speed": {
+      "type": "float", "name": "Скорость при записи",
+      "default": 0.5, "min": 0.05, "max": 3.0
+    }
+  }
+}
